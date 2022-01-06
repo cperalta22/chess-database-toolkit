@@ -1,7 +1,7 @@
 # chess-database-toolkit
 Several tools to help you create your own chess database from freely available resources
 
-This repo is where I deposit my code that help me to maintain my own chess database in Scid Vs PC format, code is cited down below when appropiate
+This repo is where I deposit my code that help me to maintain my own chess database in Scid Vs PC format
 
 __Check in this repo the file chess_database_curation.md for a brief reference as to how I built and maintain my chess database__
 https://github.com/cperalta22/chess-database-toolkit/blob/main/chess_database_curation.md
