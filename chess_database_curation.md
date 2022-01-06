@@ -32,12 +32,12 @@
     
     The Week in Chess updates is the best source for updates for OTB and good quality online games, But also contains (very rarely) some chess variants games,
     some events that are mainly Bullet or played by low ranked players, you can check the webpage of each update to decide which events you want to keep
-    and then filter the rest using Scid vs PC, I wrote a script that help me find potential problematic chess events see README.md in this repo
+    and then filter the rest using Scid vs PC, I wrote a script that help me find potential problematic chess events see README.md in this repo https://github.com/cperalta22/chess-database-toolkit/blob/main/README.md
     
     Lichess Elite Database; a very good way to fatten up your DB. Is a monthly release of high rated online games on Lichess with no bullet games included
     It contains mostly blitz games (wich I got rid to avoid overrepresentation of short time controls) and there is always the posibility that games present in
     other sources are duplicated in here but since Lichess Elite Database uses nicknames instead of actual names (for obvious reasons) there is no easy way 
-    to got rid of such games (I wrote a script that help with that, see README) Finally this database contains games from legal BOTS and I found games from
+    to got rid of such games (I wrote a script that help with that, see README https://github.com/cperalta22/chess-database-toolkit/blob/main/README.md) Finally this database contains games from legal BOTS and I found games from
     cheaters (players banned from Lichess) so If this is important to you consider it before use it for your base  
   
 
