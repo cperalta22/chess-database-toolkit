@@ -1,12 +1,14 @@
 # Simple creation and maintance of a free chess database
 
+__This document is going to be updated soon as it makes reference to tools that have now better versions that simplify the process__
+
 ## Super simple way
    In the following sections you can find a description into how I created and curated my own chess database, but the easiest way posible is:
   
    - Download [Scid Vs PC](http://scidvspc.sourceforge.net/)
    - Get the latest [Caissabase](http://caissabase.co.uk/)
    - Use the script [twic_fetch.sh](https://github.com/cperalta22/chess-database-toolkit/blob/main/twic_fetch.sh) or manually download the [The Week in Chess](https://theweekinchess.com/twic) updates that are not included on Caissabase, using date as reference
-   - If you want a really big database you could also consider to include updates from [Lichess Elite Database](https://database.nikonoel.fr/)
+   - If you want a really big database you could also consider to include games from [Lichess Elite Database](https://database.nikonoel.fr/) , as 2021 Lichess Elite Database is too big to be handled in a single Scid vs PC database, so including games from this source into another database requires further filtering. 
     
    and that is it! 
 
