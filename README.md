@@ -42,9 +42,9 @@ Very simple download tool to fetch multiple The Week in Chess weekly updates, sh
 - parallel 
 - unzip 
 
-´´´console
-$ twic_fetch.sh N__ (Where N is the number of TWIC updates to be downloaded)
-´´´
+```console
+$ twic_fetch.sh N 
+```
 
 Currently supporting only downloading of TWIC updates from newer to older
 
@@ -67,10 +67,7 @@ Usage: Change global variables as your convinence and run it into any R instance
 
 R script that takes two PGN files one from a given period of TWIC updates and other from same period coming from Lichess Elite Database and searches and remove duplicate games (based on same sequence of moves). See more details on __chess_database_curation.md__
 
-Requires:### LichessEliteDatabase_to_Basedrez_Stage_1_filter.R
-
-### LichessEliteDatabase_to_Basedrez_Stage_2_dedup.R
-
+Requires:
 
 - R
 - bigchess library
